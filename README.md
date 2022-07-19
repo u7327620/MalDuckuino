@@ -1,2 +1,2 @@
 # MalDuckuino
-12th gradee major project making my own usb with keyboard injections using Vusb
+12th grade major project making my own usb with keyboard injections using Vusb
