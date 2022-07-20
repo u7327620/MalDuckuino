@@ -2,5 +2,6 @@ Just a small document with links for the early stages of research
 
 https://www.obdev.at/products/vusb/index.html
 https://www.digikey.com/en/maker/blogs/2022/how-to-flash-the-arduino-bootloader-to-an-attiny85-ic
+https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
 
 
