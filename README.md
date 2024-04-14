@@ -13,4 +13,4 @@ I executed the server with:  `sudo node server.js` with defaults for port 443 an
 
 To host publicly, I used port/forwarding on my router to my internal ip on port 443. I only tested the project over a public ip once for demonstration purposes and stuck to local network due to how little I understood about code and network security. 
 
-ensure the curl argument within the ducky code has operand http:<server-host-ip>/givepass.
+ensure the curl argument within the ducky code has operand http:[server-host-ip]/givepass.
